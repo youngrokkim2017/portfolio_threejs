@@ -15,10 +15,12 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
+    // meta,
+    // starbucks,
+    // tesla,
+    // shopify,
+    devron,
+    bsr,
     carrent,
     jobit,
     tripguide,
@@ -105,13 +107,13 @@ import {
       icon: git,
     },
     {
-      name: "figma",
-      icon: figma,
-    },
-    {
       name: "docker",
       icon: docker,
     },
+    // {
+    //   name: "figma",
+    //   icon: figma,
+    // },
   ];
   
   const experiences = [
@@ -132,7 +134,7 @@ import {
       title: "Freelance Developer",
       company_name: "The Berkeley Science Review",
       // icon: tesla,
-      icon: BSR,
+      icon: bsr,
       iconBg: "#E6DEDD",
       date: "September 2020 - February 2021",
       points: [
