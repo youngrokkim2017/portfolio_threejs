@@ -19,8 +19,8 @@ import {
     // starbucks,
     // tesla,
     // shopify,
-    // devron,
-    // bsr,
+    devron,
+    bsr,
     carrent,
     jobit,
     tripguide,
@@ -120,7 +120,7 @@ import {
     {
       title: "Full Stack Software Engineer",
       company_name: "Devron",
-      // icon: devron,
+      icon: devron,
       iconBg: "#383E56",
       date: "February 20222 - August 2022",
       points: [
@@ -132,7 +132,7 @@ import {
     {
       title: "Freelance Developer",
       company_name: "The Berkeley Science Review",
-      // icon: bsr,
+      icon: bsr,
       iconBg: "#E6DEDD",
       date: "September 2020 - February 2021",
       points: [
