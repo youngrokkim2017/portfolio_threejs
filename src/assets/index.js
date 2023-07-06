@@ -32,6 +32,8 @@ import devron from "./company/devron.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import scoop from "./scoop.png";
+import tetrix from "./tetrix.png";
 
 export {
   logo,
@@ -64,4 +66,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  scoop,
+  tetrix,
 };
